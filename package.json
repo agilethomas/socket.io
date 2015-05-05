@@ -1,6 +1,6 @@
 {
     "name": "socket.io-agilelaw"
-  , "version": "0.9.16-2-agilelaw"
+  , "version": "0.9.16-3-agilelaw"
   , "description": "Real-time apps made cross-browser & easy with a WebSocket-like API"
   , "homepage": "http://socket.io"
   , "keywords": ["websocket", "socket", "realtime", "socket.io", "comet", "ajax"]
@@ -16,7 +16,7 @@
       , "url": "https://github.com/LearnBoost/socket.io.git"
     }
   , "dependencies": {
-        "socket.io-client-agilelaw": "0.9.16-2-agilelaw"
+        "socket.io-client-agilelaw": "0.9.16-3-agilelaw"
       , "policyfile": "0.0.4"
       , "base64id": "0.1.0"
     }
